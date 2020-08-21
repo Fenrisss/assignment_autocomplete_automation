@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.pytest_cache
+results_relevancy.png
+results_search.png
+results_symbols.png
+debug.py
